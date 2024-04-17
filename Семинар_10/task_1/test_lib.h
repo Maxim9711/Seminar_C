@@ -1,0 +1,1 @@
+void ch_smbls(int size, char * line);
